@@ -3,12 +3,12 @@
 
 ---
 ### 📊 Presentation Slides
-📄 [View Full Presentation (PDF)](https://github.com/HagerSalahRamadan/Power-BI-Business-Insights/blob/main/Presentation_Sales%20Analysis%20Project.pdf)
-[View Presentation](https://github.com/HagerSalahRamadan/Power-BI-Business-Insights/blob/main/Presentation_Sales%20Analysis%20Project.pdf)
-
+📄 [View Full Presentation (PDF)]
+ (https://github.com/HagerSalahRamadan/Power-BI-Business-Insights/blob/main/Presentation_Sales%20Analysis%20Project.pdf)
 
 ### 📊 Documentation Slides
-📄 [View Full Documentation (PDF)](https://github.com/HagerSalahRamadan/Power-BI-Business-Insights/blob/main/Documentation_Sales%20Analysis.pdf)
+📄 [View Full Documentation (PDF)]
+ (https://github.com/HagerSalahRamadan/Power-BI-Business-Insights/blob/main/Documentation_Sales%20Analysis.pdf)
 
 ---
 
