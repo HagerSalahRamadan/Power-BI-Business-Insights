@@ -65,9 +65,9 @@ Created **3 interactive dashboards**:
 #### 🖥️ Dashboards Overview  
 
 <p align="center">
-  <img src="images/1.C-Level Executive Dashboard.png" width="300">
-    <img src="images/2.Operations & Sales Team Dashboard.png" width="300">
-  <img src="images/3.Marketing & Promotions Dashboard.png" width="300">
+  <img src="1.C-Level Executive Dashboard.png" width="300">
+    <img src="2.Operations & Sales Team Dashboard.png" width="300">
+  <img src="3.Marketing & Promotions Dashboard.png" width="300">
 </p>
 
 1. **C-Level Executive** → KPIs, yearly targets, subcategories, KPI achievements.  
@@ -95,7 +95,10 @@ Created **3 interactive dashboards**:
 
 ### 🔒 Row-Level Security (RLS)  
 - **User A** → Access to all “TV and Video” category data.  
+ [RLS Test Screenshot](https://github.com/HagerSalahRamadan/Power-BI-Business-Insights/blob/main/RLS%20A%20USER.jpg)
+
 - **User B** → Access limited to “Car Video” subcategory.  
+ [RLS Test Screenshot](https://github.com/HagerSalahRamadan/Power-BI-Business-Insights/blob/main/RLS%20B%20user.jpg)
 
 ---
 
