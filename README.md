@@ -64,15 +64,15 @@ Created **3 interactive dashboards**:
 
 #### 🖥️ Dashboards Overview  
 
-<p align="center">
-  <img src="1.C-Level Executive Dashboard.png" width="300">
-    <img src="2.Operations & Sales Team Dashboard.png" width="300">
-  <img src="3.Marketing & Promotions Dashboard.png" width="300">
-</p>
+1. **C-Level Executive** → KPIs, yearly targets, subcategories, KPI achievements. 
+![Dashboard Screenshot](https://github.com/HagerSalahRamadan/Power-BI-Business-Insights/blob/main/1.C-Level%20Executive%20Dashboard.jpg)
 
-1. **C-Level Executive** → KPIs, yearly targets, subcategories, KPI achievements.  
-2. **Sales & Operations** → Sales by country, stores, employees, pipeline, store closures.  
+2. **Sales & Operations** → Sales by country, stores, employees, pipeline, store closures. 
+![Dashboard Screenshot](https://github.com/HagerSalahRamadan/Power-BI-Business-Insights/blob/main/2.Operations%20%26%20Sales%20Team%20Dashboard.jpg)
+
 3. **Marketing & Promotions** → Clicks over time, impressions, discounts analysis.  
+![Dashboard Screenshot](https://github.com/HagerSalahRamadan/Power-BI-Business-Insights/blob/main/3.Marketing%20%26%20Promotions%20Dashboard.jpg)
+
 
 ---
 
@@ -95,10 +95,10 @@ Created **3 interactive dashboards**:
 
 ### 🔒 Row-Level Security (RLS)  
 - **User A** → Access to all “TV and Video” category data.  
- [RLS Test Screenshot](https://github.com/HagerSalahRamadan/Power-BI-Business-Insights/blob/main/RLS%20A%20USER.jpg)
+ ![RLS Test Screenshot](https://github.com/HagerSalahRamadan/Power-BI-Business-Insights/blob/main/RLS%20A%20USER.jpg)
 
 - **User B** → Access limited to “Car Video” subcategory.  
- [RLS Test Screenshot](https://github.com/HagerSalahRamadan/Power-BI-Business-Insights/blob/main/RLS%20B%20user.jpg)
+ ![RLS Test Screenshot](https://github.com/HagerSalahRamadan/Power-BI-Business-Insights/blob/main/RLS%20B%20user.jpg)
 
 ---
 
