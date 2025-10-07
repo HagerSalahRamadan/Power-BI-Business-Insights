@@ -1,20 +1,13 @@
 # 📊 Business Insights Dashboards  
 ## From Data to Insights: Power BI Business Dashboard  
 
----
-### 📊 Presentation Slides
-📄 [View Full Presentation (PDF)]
- (https://github.com/HagerSalahRamadan/Power-BI-Business-Insights/blob/main/Presentation_Sales%20Analysis%20Project.pdf)
+## 📊 Presentation Slides
+📄 [View Full Presentation (PDF)](https://github.com/HagerSalahRamadan/Power-BI-Business-Insights/blob/main/Presentation_Sales%20Analysis%20Project.pdf)
 
-### 📊 Documentation Slides
-📄 [View Full Documentation (PDF)]
- (https://github.com/HagerSalahRamadan/Power-BI-Business-Insights/blob/main/Documentation_Sales%20Analysis.pdf)
 
----
+## 📊 Documentation 
+📄 [View Full Presentation (PDF)](https://github.com/HagerSalahRamadan/Power-BI-Business-Insights/blob/main/Documentation_Sales%20Analysis.pdf)
 
-## 🚀 Project Overview  
-This project analyzes **Sales, Operations, and Marketing data** to deliver actionable business insights using **Power BI** dashboards.  
-The goal was to transform raw data into meaningful **KPIs, trends, and recommendations** that support decision-making at the executive, operational, and marketing levels.  
 
 ---
 
