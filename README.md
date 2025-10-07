@@ -2,11 +2,11 @@
 ## From Data to Insights: Power BI Business Dashboard  
 
 ## 📊 Presentation Slides
-📄 [View Full Presentation (PDF)](https://github.com/HagerSalahRamadan/Power-BI-Business-Insights/blob/main/Presentation_Sales%20Analysis%20Project.pdf)
+[View Presentation (PDF)](https://github.com/HagerSalahRamadan/Power-BI-Business-Insights/blob/main/Presentation_Sales%20Analysis%20Project.pdf)
 
 
 ## 📊 Documentation 
-📄 [View Full Presentation (PDF)](https://github.com/HagerSalahRamadan/Power-BI-Business-Insights/blob/main/Documentation_Sales%20Analysis.pdf)
+[View Documentation (PDF)](https://github.com/HagerSalahRamadan/Power-BI-Business-Insights/blob/main/Documentation_Sales%20Analysis.pdf)
 
 
 ---
