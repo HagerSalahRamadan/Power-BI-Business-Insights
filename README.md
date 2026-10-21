@@ -9,7 +9,15 @@
 
 
 ---
+---
 
+## 🎬 Project Demo
+### 🎥 Watch the Project Walkthrough
+[Watch Video on LinkedIn](https://lnkd.in/p/dSASTKGQ)
+
+*Click the button above to watch the full interactive walkthrough video on LinkedIn.*
+
+---
 ## 📂 Dataset  
 The dataset includes:
 - **Products & Subcategories** (Camcorders, Projectors, Home Theater, etc.)
